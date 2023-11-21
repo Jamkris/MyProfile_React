@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50c0b0d4.css",
+    "main.js": "/static/js/main.ce2cac88.js",
+    "static/css/468.50b7cbce.chunk.css": "/static/css/468.50b7cbce.chunk.css",
+    "static/js/468.2fd89a8a.chunk.js": "/static/js/468.2fd89a8a.chunk.js",
+    "static/css/976.50b7cbce.chunk.css": "/static/css/976.50b7cbce.chunk.css",
+    "static/js/976.4015a317.chunk.js": "/static/js/976.4015a317.chunk.js",
+    "static/css/380.50b7cbce.chunk.css": "/static/css/380.50b7cbce.chunk.css",
+    "static/js/380.f4f90f2f.chunk.js": "/static/js/380.f4f90f2f.chunk.js",
+    "static/css/964.50b7cbce.chunk.css": "/static/css/964.50b7cbce.chunk.css",
+    "static/js/964.2d1e561f.chunk.js": "/static/js/964.2d1e561f.chunk.js",
+    "static/css/863.50b7cbce.chunk.css": "/static/css/863.50b7cbce.chunk.css",
+    "static/js/863.122f6d8f.chunk.js": "/static/js/863.122f6d8f.chunk.js",
+    "static/js/665.12e31b20.chunk.js": "/static/js/665.12e31b20.chunk.js",
+    "index.html": "/index.html",
+    "main.50c0b0d4.css.map": "/static/css/main.50c0b0d4.css.map",
+    "main.ce2cac88.js.map": "/static/js/main.ce2cac88.js.map",
+    "468.50b7cbce.chunk.css.map": "/static/css/468.50b7cbce.chunk.css.map",
+    "468.2fd89a8a.chunk.js.map": "/static/js/468.2fd89a8a.chunk.js.map",
+    "976.50b7cbce.chunk.css.map": "/static/css/976.50b7cbce.chunk.css.map",
+    "976.4015a317.chunk.js.map": "/static/js/976.4015a317.chunk.js.map",
+    "380.50b7cbce.chunk.css.map": "/static/css/380.50b7cbce.chunk.css.map",
+    "380.f4f90f2f.chunk.js.map": "/static/js/380.f4f90f2f.chunk.js.map",
+    "964.50b7cbce.chunk.css.map": "/static/css/964.50b7cbce.chunk.css.map",
+    "964.2d1e561f.chunk.js.map": "/static/js/964.2d1e561f.chunk.js.map",
+    "863.50b7cbce.chunk.css.map": "/static/css/863.50b7cbce.chunk.css.map",
+    "863.122f6d8f.chunk.js.map": "/static/js/863.122f6d8f.chunk.js.map",
+    "665.12e31b20.chunk.js.map": "/static/js/665.12e31b20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c0b0d4.css",
+    "static/js/main.ce2cac88.js"
+  ]
+}
