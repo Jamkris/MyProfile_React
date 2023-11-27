@@ -23,21 +23,18 @@ const Menubar = ({ closeMenubar }) => {
 			<div className='Menubar_Main'>
 				<h2 id='Menuh2'>Menu</h2>
 				<ul className='Menu_Lists'>
-					<li style={{borderBottom: '1px solid #717171'}}>
+					<li style={{ borderBottom: '1px solid #717171' }}>
 						<a href='/'>Home</a>
 					</li>
-					<li style={{borderBottom: '1px solid #717171'}}>
+					<li style={{ borderBottom: '1px solid #717171' }}>
 						<a href='/profile'>Profile</a>
 					</li>
-					<li style={{borderBottom: '1px solid #717171'}}>
+					<li style={{ borderBottom: '1px solid #717171' }}>
 						<a href='/project'>Project</a>
 					</li>
-					<li style={{borderBottom: '1px solid #717171'}}>
+					{/* <li style={{borderBottom: '1px solid #717171'}}>
 						<a href='/learn'>Learn</a>
-					</li>
-					<li style={{borderBottom: '1px solid #717171'}}>
-						<a href='/storebat'>Store Bet</a>
-					</li>
+					</li> */}
 				</ul>
 			</div>
 		</div>

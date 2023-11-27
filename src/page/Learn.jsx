@@ -18,7 +18,7 @@ const Learn = () => {
 					<Title TITLE={"About What I've Learned"} />
 					<section class='tiles'>
 						<Source
-							IMG={'./images/BSSM (5).jpg'}
+							IMG={'../images/BSSM (5).jpg'}
 							LINK={'Preparing.html'}
 							TITLE={'Preparing'}
 							DESC={'Preparing'}

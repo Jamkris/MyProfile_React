@@ -22,7 +22,7 @@ const Home = () => {
 					<section class='tiles'>
 						<Source
 							IMG={'./images/MyPhoto.jpg'}
-							LINK={'Profile.html'}
+							LINK={'/Profile'}
 							TITLE={'Profile'}
 							DESC={'This is my Profile page'}
 						/>

@@ -18,7 +18,7 @@ const StoreBat = () => {
 					<Title TITLE={"Enjoy with your friends!"} />
 					<section class='tiles'>
 						<Source
-							IMG={'./images/BSSM (5).jpg'}
+							IMG={'../images/BSSM (5).jpg'}
 							LINK={'Preparing.html'}
 							TITLE={'Preparing'}
 							DESC={'Preparing'}
